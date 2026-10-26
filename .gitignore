@@ -1,0 +1,7 @@
+task1/qsort
+task2/func_ptr
+*.log
+!task1/test-data/test1-exp.log
+.DS_Store
+task1/qsort_ref
+task2/func_ptr_ref
